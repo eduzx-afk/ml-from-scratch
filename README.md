@@ -16,7 +16,7 @@ notebook com a derivação, experimentos e comparação com o scikit-learn.
 ## Como rodar
 
 ```bash
-git clone https://github.com/SEU_USUARIO/ml-from-scratch.git
+git clone https://github.com/eduzx-afk/ml-from-scratch.git
 cd ml-from-scratch
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
